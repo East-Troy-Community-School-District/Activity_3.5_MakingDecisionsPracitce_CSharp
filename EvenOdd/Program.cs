@@ -1,7 +1,8 @@
 ﻿/*
  * Even Odd
- * 1/9/2023
- * C#.NET I
+ * Pawelski
+ * 10/1/2023
+ * Developing Desktop Applications
  */
 
 using System;
